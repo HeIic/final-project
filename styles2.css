@@ -1,0 +1,56 @@
+.second-header{
+  text-align: center;
+}
+
+/* Classes */
+.main-header{
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -10px;
+  background-color: #020202;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.main-header h3{
+  color: white;
+}
+.second-header{
+  padding-top: 10px;
+}
+
+
+.product,
+.price,
+.textnstuff{
+  display: block;
+    margin-top: 4px;
+    color: #4f4f4f;
+    font-size: 0.9375em;
+    text-decoration: none;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+img{
+   max-width: 750px;
+}
+
+.main-footer{
+  background-color: #2c2c2c;
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-left: 10px;
+}
+
+.main-footer p{
+  color: white;
+}
+
+.buttons{
+  margin-left: 0px;
+}
+
+img{
+  width: 100%;
+}
